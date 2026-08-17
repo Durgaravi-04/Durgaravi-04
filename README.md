@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Durga%20Devi%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Front-End%20Developer%20%7C%20React.js%20%7C%20MCA%20Student&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Durga%20Devi%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=MCA%20Student%20%7C%20Aspiring%20Developer&descAlignY=62&descSize=16" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Durga+Devi+R+%F0%9F%91%8B;React.js+%7C+Java+%7C+Node.js+Developer;MCA+Student+%40+KGISL%2C+Coimbatore;Building+clean%2C+scalable+web+apps" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Durga+Devi+R+%F0%9F%91%8B;MCA+Student+%40+KGISL%2C+Coimbatore;Learning+Java+%26+the+MERN+Stack;Eager+to+Learn+%2B+Build+%2B+Grow" alt="Typing SVG" /></a>
 
 </div>
 
@@ -16,26 +16,29 @@ class DurgaDeviR {
     private String location = "Coimbatore, India";
     private String degree = "MCA @ KGISL Institute of Information Management";
 
-    private String[] stack = {
-        "React.js", "JavaScript (ES6+)", "HTML5", "CSS3",
-        "Java", "Node.js", "MySQL", "MongoDB", "Firebase"
-    };
-
-    private String[] currentlyLearning = {
-        "Advanced Node.js", "TypeScript", "Cloud Deployment (AWS/Azure)"
+    private String[] learning = {
+        "Java (fundamentals & OOP)",
+        "React.js",
+        "MERN Stack basics"
     };
 
     private String funFact = "I volunteer with an Animal Welfare Club! 🐾";
 
     public String motto() {
-        return "Write clean code, ship real solutions, keep learning.";
+        return "Still learning, still building — one project at a time.";
     }
 }
 ```
 
 <br clear="right"/>
 
-## 🛠️ Tech Stack
+## 🌱 About Me
+
+I'm an MCA student who's genuinely still learning the ropes — currently strengthening my basics in **Java**, and picking up hands-on experience with **React.js** and the **MERN stack** through small projects. I'm not an expert yet, but I enjoy figuring things out, building real things, and getting a little better every day. Open to internships, collaborations, and any chance to learn from more experienced developers!
+
+<br/>
+
+## 🛠️ Tech I'm Learning
 
 **Languages**
 <br/>
@@ -43,19 +46,11 @@ class DurgaDeviR {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-**Frameworks**
+**Frameworks & Stack**
 <br/>
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-**Cloud & DevOps**
-<br/>
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 **Databases**
 <br/>
@@ -65,6 +60,8 @@ class DurgaDeviR {
 
 **Tools**
 <br/>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 <br/>
@@ -88,62 +85,47 @@ class DurgaDeviR {
 
 </div>
 
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Durgaravi-04&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
-
-</div>
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Durgaravi-04&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)
-
-</div>
-
 <br/>
 
-## 💼 Work Experience
+## 💼 Experience
 
 <details>
 <summary><b>Sogofy Biz Tech Pvt. Ltd., Chennai — Junior Software Engineer (Intern)</b> | May 2024 – Oct 2024</summary>
 <br/>
 
-> `React.js` `REST APIs` `JavaScript (ES6+)` `Git`
+> `React.js` `REST APIs` `JavaScript`
 
-- Focused on React UI development and REST API integration for dynamic data rendering.
-- Built and optimized reusable front-end components, reducing redundant code by **~20%**.
+- Worked on React UI development and REST API integration for dynamic data rendering.
+- Helped build and optimize reusable front-end components, reducing redundant code by **~20%**.
 - Gained hands-on experience with collaborative development, code reviews, and debugging.
-- Worked in an agile, team-based environment delivering features end-to-end.
 
 </details>
 
 <br/>
 
-## 🚀 Featured Projects
+## 🚀 Projects I've Built
 
 <div align="center">
 
-| Project | Stack | Highlights |
+| Project | What I Used | About It |
 |---|---|---|
-| **Train Ticket Booking System** | Java · PHP · MySQL · Microsoft Azure | Booking application with user authentication and seat selection, deployed on **Microsoft Azure** |
-| **Brownie Shop Website** | React.js · Firebase Firestore | Responsive e-commerce platform with product listings, cart, and checkout backed by a **real-time Firebase** backend |
-| **Tourism Management System** | Java · Amazon AWS | Portal for browsing destinations and managing bookings with **secure cloud storage on AWS** |
+| **Train Ticket Booking System** | Java · PHP · MySQL | A booking application with user authentication and seat selection |
+| **Brownie Shop Website** | React.js · Firebase Firestore | An e-commerce site with product listings, cart, and checkout, connected to a Firebase backend |
+| **Tourism Management System** | Java | A portal for browsing destinations and managing bookings |
 
 </div>
 
 <br/>
 
-## 🏆 Achievements & Certifications
+## 📜 Certifications
 
 <div align="center">
 
-| | Achievement | Details |
+| | Certification | Details |
 |---|---|---|
-| ☕ | Java Programming Certification | Core concepts, OOP, and application development — *Coursera* |
-| 🌐 | Web Development Certification | HTML, CSS, and JavaScript fundamentals — *Coursera* |
-| 🍃 | MongoDB Certification | NoSQL database design and querying fundamentals — *Coursera* |
-| 🎉 | Core Organising Committee | 'Infinity' Departmental Fest |
-| 🐾 | Animal Welfare Club Volunteer | Active community volunteer |
+| ☕ | Java Programming | Core concepts, OOP, and application development — *Coursera* |
+| 🌐 | Web Development | HTML, CSS, and JavaScript fundamentals — *Coursera* |
+| 🍃 | MongoDB | NoSQL database design and querying fundamentals — *Coursera* |
 
 </div>
 
@@ -165,9 +147,9 @@ class DurgaDeviR {
 ## 📚 Currently Learning
 
 ```
-🧱 Node.js         → Advanced APIs, Authentication, Middleware
-☁️  Cloud            → AWS Deployment, Azure Services
-🔷 TypeScript      → Type-safe React development
+☕ Java          → Fundamentals, OOP, Data Structures
+⚛️  React.js      → Building better UI, Hooks, State Management
+🌐 MERN Stack    → MongoDB, Express, React, Node.js — end to end
 ```
 
 <br/>
