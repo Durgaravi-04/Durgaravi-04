@@ -40,29 +40,25 @@ I'm an MCA student who's genuinely still learning the ropes — currently streng
 
 ## 🛠️ Tech I'm Learning
 
+<div align="center">
+
 **Languages**
 <br/>
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark" />
 
 **Frameworks & Stack**
 <br/>
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nodejs&theme=dark" />
 
 **Databases**
 <br/>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" />
 
 **Tools**
 <br/>
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+</div>
 
 <br/>
 
@@ -154,14 +150,21 @@ I'm an MCA student who's genuinely still learning the ropes — currently streng
 
 <br/>
 
-## 📫 Connect with Me
+## 📫 Let's Connect
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Email-durgaravi028%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:durgaravi028@gmail.com)
-![Location](https://img.shields.io/badge/Location-Coimbatore%2C%20India-70A5FD?style=flat-square&logo=googlemaps&logoColor=white)
+<a href="mailto:durgaravi028@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=70A5FD" />
+</a>
+<a href="https://github.com/Durgaravi-04">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=BF91F3" />
+</a>
+<img src="https://img.shields.io/badge/Coimbatore%2C_India-0D1117?style=for-the-badge&logo=googlemaps&logoColor=38BDAE" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Durgaravi-04&color=70a5fd&style=flat-square&label=Profile+Views)
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Durgaravi-04&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
